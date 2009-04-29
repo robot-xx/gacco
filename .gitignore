@@ -1,0 +1,8 @@
+config/database.yml
+config/thin.yml
+config/setup/*
+log/*
+tmp/*
+uploaded/*
+thumbnails/*
+*.swp
